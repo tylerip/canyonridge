@@ -2030,7 +2030,6 @@ pre code {
   background-color: #fff;
   border-color: #0abab5;
   outline: 0;
-    /*box-shadow: 0 0 0 0.2rem rgba(254, 209, 54, 0.25);*/
   box-shadow: 0 0 0 0.2rem rgba(4, 80, 74, 0.25);
 }
 .form-control::-webkit-input-placeholder {
@@ -2465,7 +2464,6 @@ textarea.form-control {
 .btn:focus, .btn.focus {
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(4, 80, 78, 0.25);
-    /*box-shadow: 0 0 0 0.2rem rgba(254, 209, 54, 0.25);*/
 }
 .btn.disabled, .btn:disabled {
   opacity: 0.65;
@@ -3710,7 +3708,6 @@ input[type=button].btn-block {
 }
 .custom-file-input:focus ~ .custom-file-label {
   border-color: #0abab5;
-    /*box-shadow: 0 0 0 0.2rem rgba(254, 209, 54, 0.25);*/
   box-shadow: 0 0 0 0.2rem rgba(4, 80, 74, 0.25);
 }
 .custom-file-input[disabled] ~ .custom-file-label, .custom-file-input:disabled ~ .custom-file-label {
@@ -10502,9 +10499,6 @@ header.masthead-help .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  /*background-image: url("../assets/img/map-image.png");
-  background-repeat: no-repeat;
-  background-position: center;*/
 }
 section#contact .section-heading {
   color: #000000;
